@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+@theme {
+    --font-Nunito: "Nunito", sans-serif;
+    --spacing-mContainer: 1270px;
+    --color-bg: #547792;
+    --color-primary: #94B4C1;
+}
